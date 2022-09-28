@@ -1,0 +1,70 @@
+
+.contenedor {
+	width: 90%;
+	margin: auto;
+}
+
+body {text-align: center; font-family: Stardos, Arial, Helvetica, sans-serif;}
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background:white;
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+header nav a {
+	color: #AAA;
+	text-decoration: none;
+	margin-right: 20px;
+}
+
+header nav a:hover,
+header nav a.activo {
+	color: #FFF;
+	border-bottom: solid #F2F2F2;
+}
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+.resalta {
+    color: rgb(68, 68, 68);
+    font-weight: bold;
+}
+#buscaIlustracion {
+    width: 80%;
+}
+.btn { 
+    background-color: #00000052 !important;
+    width: 100%
+}
+.btn-main {
+    background-color: #00000052 ;
+    margin: 20px;
+    width: 20%;
+}
+.btn-main:hover {
+    background-color: rgb(68, 104, 93);
+}
+#total {
+    font-size: 25px;
+    margin: 20px;
+}
+/*--TABLAS--*/
+#tabla {    
+    margin: 2% auto;
+    width: 50%;
+}
+#tablaPresupuesto {
+    margin: auto;
+    width: 50%;
+}
+

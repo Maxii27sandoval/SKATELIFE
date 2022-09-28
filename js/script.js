@@ -28,7 +28,7 @@ $(document).ready(function(){
 
 	// MOSTRANDO TODOS LOS PRODUCTOS =======================
 
-	$('.category_item[category="all"]').click(function(){
+	$('.category_item[category="tablas"]').click(function(){
 		function showAll(){
 			$('.product-item').show();
 			$('.product-item').css('transform', 'scale(1)');

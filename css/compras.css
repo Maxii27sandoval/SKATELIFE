@@ -233,3 +233,8 @@ button{
         position: relative;
         }
     }
+
+    .carrito{
+        height: 35px;
+        width: 40px;
+    }
